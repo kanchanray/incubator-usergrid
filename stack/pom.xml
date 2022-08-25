@@ -22,7 +22,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>16</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.usergrid</groupId>
@@ -873,7 +873,7 @@
       <dependency>
         <groupId>org.jsoup</groupId>
         <artifactId>jsoup</artifactId>
-        <version>1.6.0</version>
+        <version>1.15.3</version>
       </dependency>
 
       <dependency>

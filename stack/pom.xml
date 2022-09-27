@@ -22,7 +22,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>16</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.usergrid</groupId>
@@ -861,7 +861,7 @@
       <dependency>
         <groupId>org.codehaus.jettison</groupId>
         <artifactId>jettison</artifactId>
-        <version>1.2</version>
+        <version>1.5.1</version>
       </dependency>
 
       <dependency>

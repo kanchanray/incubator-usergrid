@@ -22,7 +22,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>16</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.usergrid</groupId>
@@ -90,7 +90,7 @@
     <!-- =================================================================== -->
 
     <amber-version>0.22-incubating</amber-version>
-    <cassandra-version>1.2.12</cassandra-version>
+    <cassandra-version>4.0.0</cassandra-version>
     <hector-om-version>3.0-03</hector-om-version>
     <hector-version>1.1-4</hector-version>
     <hector-test-version>1.1-4</hector-test-version>
@@ -100,7 +100,7 @@
     <junit-version>4.11</junit-version>
     <log4j-version>1.2.16</log4j-version>
     <metrics-version>2.1.2</metrics-version>
-    <org.springframework.version>3.1.2.RELEASE</org.springframework.version>
+    <org.springframework.version>5.2.23.RELEASE</org.springframework.version>
     <shiro-version>1.2.0</shiro-version>
     <slf4j-version>1.6.1</slf4j-version>
     <snakeyaml-version>1.9</snakeyaml-version>
@@ -197,7 +197,7 @@
       <dependency>
         <groupId>commons-codec</groupId>
         <artifactId>commons-codec</artifactId>
-        <version>1.4</version>
+        <version>1.13</version>
       </dependency>
 
       <dependency>
@@ -215,7 +215,7 @@
       <dependency>
         <groupId>commons-io</groupId>
         <artifactId>commons-io</artifactId>
-        <version>2.4</version>
+        <version>2.7</version>
       </dependency>
 
       <dependency>
@@ -730,7 +730,7 @@
       <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>15.0</version>
+        <version>30.0-android</version>
       </dependency>
 
       <dependency>
@@ -1020,7 +1020,7 @@
       <dependency>
         <groupId>jline</groupId>
         <artifactId>jline</artifactId>
-        <version>0.9.94</version>
+        <version>1.0</version>
       </dependency>
 
 

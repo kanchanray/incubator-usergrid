@@ -22,7 +22,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>16</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.usergrid</groupId>
@@ -245,7 +245,7 @@
       <dependency>
         <groupId>com.amazonaws</groupId>
         <artifactId>aws-java-sdk-s3</artifactId>
-        <version>1.9.31</version>
+        <version>1.12.701</version>
       </dependency>
 
 

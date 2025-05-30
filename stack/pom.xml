@@ -22,7 +22,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>16</version>
-    <relativePath></relativePath>
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.usergrid</groupId>
@@ -179,7 +179,7 @@
       <dependency>
         <groupId>commons-beanutils</groupId>
         <artifactId>commons-beanutils</artifactId>
-        <version>1.8.3</version>
+        <version>1.11.0</version>
         <exclusions>
           <exclusion>
             <artifactId>commons-logging</artifactId>
